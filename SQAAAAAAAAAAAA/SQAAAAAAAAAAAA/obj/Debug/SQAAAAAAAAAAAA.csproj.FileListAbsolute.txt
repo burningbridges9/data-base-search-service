@@ -1,0 +1,6 @@
+c:\users\rustam\documents\visual studio 2017\Projects\SQAAAAAAAAAAAA\SQAAAAAAAAAAAA\bin\SQAAAAAAAAAAAA.dll.config
+c:\users\rustam\documents\visual studio 2017\Projects\SQAAAAAAAAAAAA\SQAAAAAAAAAAAA\bin\SQAAAAAAAAAAAA.dll
+c:\users\rustam\documents\visual studio 2017\Projects\SQAAAAAAAAAAAA\SQAAAAAAAAAAAA\bin\SQAAAAAAAAAAAA.pdb
+c:\users\rustam\documents\visual studio 2017\Projects\SQAAAAAAAAAAAA\SQAAAAAAAAAAAA\obj\Debug\SQAAAAAAAAAAAA.csprojResolveAssemblyReference.cache
+c:\users\rustam\documents\visual studio 2017\Projects\SQAAAAAAAAAAAA\SQAAAAAAAAAAAA\obj\Debug\SQAAAAAAAAAAAA.dll
+c:\users\rustam\documents\visual studio 2017\Projects\SQAAAAAAAAAAAA\SQAAAAAAAAAAAA\obj\Debug\SQAAAAAAAAAAAA.pdb
